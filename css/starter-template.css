@@ -1,0 +1,20 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+hgroup {
+	color: brown;
+}
+
+footer {
+	text-align: center;
+	font-size: 14px;
+}
+
+footer a:hover {
+	text-decoration: line-through;
+}
